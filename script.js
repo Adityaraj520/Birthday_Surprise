@@ -479,7 +479,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-closing-el',
-    text: "At last all i will say is \n.Happy birthday, Sweta. Have a Happiest Birthday.🫶🏻🎂❤️"
+    text: "At last all i will say is.\n Happy birthday, Sweta. Have a Happiest Birthday.🫶🏻🎂❤️"
   }
 ];
 
