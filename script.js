@@ -471,15 +471,15 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-p1-el',
-    text: "I hope this year brings you everything you've been wishing for and so much more. Thank you for making my days happier, my bad days easier, and my life a little more interesting just by being in it. 🥺💖"
+    text: "I hope this year brings you everything you've been wishing for and so much more. Its been almost a 9 - 10 months of our friendship we had so many fights soo many arguments and still here we are together and thats the thing i love about you, Thankyou for being in my life. 🥺💖"
   },
   {
     id: 'letter-p2-el',
-    text: "I'm so lucky to have you as my friend, and I can't wait to make a million memories with you."
+    text: "I'm so lucky to have you as my friend, Sometimes you do make me angry, fights like you are never going to talk to me ever again but then there comes a sweet moment when you forgets everything and starts talking back normally thats my favourite moment after every fight.\n Yesterday you said that mai to bohot khush ho gya howungs jb tm mall gyi thi mere saath so yeah That was a memorable day for me coz that was the very first time you came out with me even if we have'nt done anything special or crazy that day but that was a very special day for me i enjoyed that day very much."
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, Sweta. Have a Happiest Birthday. 🫶🏻🎂❤️"
+    text: "At last all i will say is \n.Happy birthday, Sweta. Have a Happiest Birthday.🫶🏻🎂❤️"
   }
 ];
 
